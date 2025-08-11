@@ -24,5 +24,8 @@ The design is fully responsive, adapting flawlessly to various screen sizes and 
 
 Beyond its visual appeal, this portfolio serves as a digital resume and personal branding tool, helping developers stand out in competitive fields. It is ideal for job applications, freelance opportunities, or showcasing skills to potential collaborators. By combining HTML and CSS best practices with responsive design principles, this project demonstrates both technical skills and an understanding of user experience (UX) design in modern web development.
 
+##OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2b5bce44-eb19-4acd-9585-15d3f94dd8ac" />
 
 
