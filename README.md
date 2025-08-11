@@ -28,4 +28,7 @@ Beyond its visual appeal, this portfolio serves as a digital resume and personal
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2b5bce44-eb19-4acd-9585-15d3f94dd8ac" />
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2a394205-0c6d-46b4-8233-b6ee86d8dfee" />
+
+
 
